@@ -3,6 +3,7 @@ import LandingPage from "./views/LandingPage.jsx";
 import WorldSelectionPage from "./views/WorldSelectionPage.jsx";
 import AdminPage from "./views/AdminPage.jsx";
 import GamePage from "./views/GamePage.jsx";
+import './App.css';
 
 function App() {
     const [currentPage, setCurrentPage] = useState('LandingPage')

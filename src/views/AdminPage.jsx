@@ -1,6 +1,6 @@
 
 function AdminPage({onPageSwap}){
-    return (<div>
+    return (<div className="App">
         <h1>Admin Page</h1>
     </div>);
 }
